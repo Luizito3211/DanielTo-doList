@@ -27,3 +27,15 @@
     align-items: center;
     gap: 7px;
 }
+
+.delete {
+    border: none;
+    background-color: #276faa;
+    color: white;
+}
+
+.tarefa {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
